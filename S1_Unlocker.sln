@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "S1_Unlocker", "S1_Unlocker\S1_Unlocker.vcxproj", "{1207DBAD-6D28-47F3-B761-47FF8B890B57}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1207DBAD-6D28-47F3-B761-47FF8B890B57}.Release|x64.ActiveCfg = Release|x64
+		{1207DBAD-6D28-47F3-B761-47FF8B890B57}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC0E632A-F291-4683-BA5B-D2008D6B996D}
+	EndGlobalSection
+EndGlobal
